@@ -26,6 +26,6 @@ Fetching Flickr Albums and showing photos in a gallery style - ObjectiveC projec
 
 6. The photo can also be shared by selecting the share button.
 
-For more information on Tumblr Apis, visit - http://www.flickr.com/services/api/
+For more information on Flickr Apis, visit - http://www.flickr.com/services/api/
 
 Photo Gallery is an FGallery-iPhone project. Please visit project on https://github.com/gdavis/FGallery-iPhone for more information. I have added the share feature to this project to allow sharing of photos.
